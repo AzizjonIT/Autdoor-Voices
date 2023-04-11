@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.canteiner{
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+}
+.nav_22{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px;
+    width: 1100px;
+    height: 30px;
+    background-color: rgb(25, 25, 210);
+}
+.nav{
+    
+display: flex;
+justify-content: space-between;
+padding: 15px;
+padding-left: 40px;
+padding-right: 40px;
+}
+.nav_img{
+    padding-left: 15px;
+    width: 40px;
+}
+.div{
+    background-image: url("/Rectangle.png");
+    height: 600px;
+}
+.a{
+    text-decoration: none;
+    padding-left: 40px;
+    color: black;
+}
+.ab{
+    text-decoration: none;
+    color: black;
+}
+.img{
+    width: 1100px;
+}
+.div_text{
+    width: 1020px;
+   
+    padding-left: 650px;
+    padding-top: 40px;
+    color: rgb(255, 255, 255);
+}
+.div_text_h1{
+    font-size: 50px;
+}
+.but{
+    padding-top: 30px;
+}
+.b{
+    padding: 12px;
+    background-color: rgb(255, 255, 255);
+    border-radius:20px;
+    border: none;
+}
+.div_text_p{
+    padding-top: 35px;
+    font-size: 20px;
+}
+.div{
+   padding-bottom: 70px;
+  
+}
+.bb{
+    color: floralwhite;
+    padding: 15px;
+    background-color: rgb(6, 1, 1);
+    border-radius:20px;
+    border: none;
+}
+.text{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.card_img{
+    width: 380px;
+    height: 500px;
+}
+.card_1{
+    width: 380px;
+    height: 565px;
+   
+}
+.card_h{
+    padding-top: 10px;
+}
+.card_p{
+    color: darkgray;
+    padding-top: 8px;
+}
+.card{
+    display: flex;
+   justify-content: center;
+   padding-bottom: 90px;
+}
+.card_11{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.card_pp{
+    width: 350px;
+    
+}
+.card__p{
+    padding-top: 38px;
+    padding-bottom: 35px;
+}
+.card_img{
+    padding-left: 30px;
+}
+.card_img_1{
+    width: 380px;
+    height: 500px;
+}
+.card_12{
+    padding-top: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 85px;
+}
+.card_13{
+    padding-top: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 85px;
+    padding-bottom: 100px;
+}
